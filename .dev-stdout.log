@@ -1,0 +1,149 @@
+
+> pagina-evo@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.14
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.8:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.8s (563 modules)
+ GET / 200 in 3654ms
+ GET / 200 in 230ms
+ ○ Compiling /api/maryorie ...
+ ✓ Compiled /api/maryorie in 817ms (584 modules)
+ GET / 200 in 415ms
+ POST /api/maryorie 200 in 2666ms
+ POST /api/maryorie 200 in 1422ms
+ POST /api/maryorie 200 in 2358ms
+ ✓ Compiled in 1037ms (564 modules)
+ GET / 200 in 332ms
+ GET / 200 in 294ms
+ GET / 200 in 153ms
+ GET / 200 in 161ms
+ ✓ Compiled /api/maryorie in 172ms (345 modules)
+ POST /api/maryorie 200 in 2631ms
+ POST /api/maryorie 200 in 2082ms
+ ✓ Compiled in 702ms (584 modules)
+ GET / 200 in 253ms
+ ✓ Compiled in 350ms (584 modules)
+ GET / 200 in 219ms
+ ✓ Compiled in 530ms (564 modules)
+ GET / 200 in 339ms
+ GET / 200 in 310ms
+ GET / 200 in 139ms
+ GET / 200 in 176ms
+ ✓ Compiled /api/maryorie in 167ms (345 modules)
+ POST /api/maryorie 200 in 4385ms
+ POST /api/maryorie 200 in 1437ms
+ ✓ Compiled in 753ms (584 modules)
+ GET / 200 in 318ms
+ ✓ Compiled in 394ms (564 modules)
+ GET / 200 in 544ms
+ ✓ Compiled in 541ms (564 modules)
+ GET / 200 in 222ms
+ GET / 200 in 346ms
+ ✓ Compiled /api/maryorie in 173ms (345 modules)
+ POST /api/maryorie 200 in 1885ms
+ POST /api/maryorie 200 in 1781ms
+ POST /api/maryorie 200 in 1688ms
+ POST /api/maryorie 200 in 1548ms
+ POST /api/maryorie 200 in 2048ms
+ POST /api/maryorie 200 in 2570ms
+ POST /api/maryorie 200 in 1652ms
+ POST /api/maryorie 200 in 2542ms
+ ✓ Compiled in 747ms (550 modules)
+ GET / 200 in 407ms
+ ✓ Compiled in 298ms (564 modules)
+ GET / 200 in 218ms
+ ✓ Compiled in 1030ms (564 modules)
+ GET / 200 in 219ms
+ ✓ Compiled in 588ms (564 modules)
+ GET / 200 in 530ms
+ GET / 200 in 320ms
+ ○ Compiling /api/maryorie/speech ...
+ ✓ Compiled /api/maryorie/speech in 579ms (569 modules)
+ POST /api/maryorie/speech 200 in 2755ms
+ GET / 200 in 439ms
+ ✓ Compiled /api/maryorie in 296ms (347 modules)
+ POST /api/maryorie 200 in 2200ms
+ POST /api/maryorie/speech 200 in 1981ms
+ POST /api/maryorie 200 in 2919ms
+ POST /api/maryorie/speech 200 in 4669ms
+ GET / 200 in 483ms
+ POST /api/maryorie 200 in 1384ms
+ POST /api/maryorie/speech 200 in 1847ms
+ ✓ Compiled in 753ms (586 modules)
+ ✓ Compiled in 429ms (239 modules)
+ GET / 200 in 517ms
+ GET / 200 in 97ms
+ POST /api/maryorie 200 in 1447ms
+ POST /api/maryorie/speech 200 in 1557ms
+ POST /api/maryorie 200 in 1621ms
+ POST /api/maryorie/speech 200 in 1848ms
+ ✓ Compiled in 567ms (564 modules)
+ GET / 200 in 660ms
+ GET / 200 in 360ms
+ ✓ Compiled in 274ms (564 modules)
+ GET / 200 in 212ms
+ ✓ Compiled in 777ms (564 modules)
+ GET / 200 in 170ms
+ ✓ Compiled in 291ms (564 modules)
+ GET / 200 in 175ms
+ GET / 200 in 299ms
+ ✓ Compiled /api/maryorie in 196ms (345 modules)
+ POST /api/maryorie 200 in 1823ms
+ ✓ Compiled /api/maryorie/speech in 218ms (347 modules)
+ POST /api/maryorie/speech 200 in 2435ms
+ POST /api/maryorie 200 in 977ms
+ POST /api/maryorie 200 in 1396ms
+ GET / 200 in 441ms
+ POST /api/maryorie 200 in 1490ms
+ POST /api/maryorie/speech 200 in 3723ms
+ ✓ Compiled in 679ms (586 modules)
+ GET / 200 in 469ms
+ GET / 200 in 309ms
+ ✓ Compiled in 846ms (586 modules)
+ GET / 200 in 255ms
+ ✓ Compiled in 620ms (586 modules)
+ GET / 200 in 157ms
+ GET / 200 in 271ms
+ POST /api/maryorie 200 in 1300ms
+ POST /api/maryorie/speech 200 in 2225ms
+ ✓ Compiled in 691ms (564 modules)
+ GET / 200 in 648ms
+ GET / 200 in 343ms
+ ✓ Compiled in 344ms (564 modules)
+ GET / 200 in 219ms
+ ✓ Compiled in 263ms (564 modules)
+ GET / 200 in 133ms
+ ✓ Compiled in 463ms (564 modules)
+ GET / 200 in 161ms
+ GET / 200 in 311ms
+ ✓ Compiled /api/maryorie in 368ms (345 modules)
+ POST /api/maryorie 200 in 2109ms
+ ✓ Compiled /api/maryorie/speech in 319ms (347 modules)
+ POST /api/maryorie/speech 200 in 2889ms
+ ✓ Compiled in 705ms (564 modules)
+ GET / 200 in 626ms
+ GET / 200 in 331ms
+ ✓ Compiled /api/maryorie in 151ms (345 modules)
+ POST /api/maryorie 200 in 1586ms
+ ✓ Compiled /api/maryorie/speech in 227ms (347 modules)
+ POST /api/maryorie/speech 200 in 2414ms
+ ✓ Compiled in 663ms (564 modules)
+ GET / 200 in 623ms
+ GET / 200 in 329ms
+ ✓ Compiled in 835ms (550 modules)
+ GET / 200 in 801ms
+ GET / 200 in 75ms
+ ✓ Compiled in 360ms (564 modules)
+ GET / 200 in 494ms
+ ✓ Compiled in 295ms (564 modules)
+ GET / 200 in 205ms
+ ✓ Compiled in 581ms (564 modules)
+ GET / 200 in 183ms
+[?25h
